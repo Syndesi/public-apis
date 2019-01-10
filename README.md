@@ -298,9 +298,11 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AirVisual](https://airvisual.com/api) | Air quality and weather data | `apiKey` | Yes | Unknown |
+| [DWD](ftp://ftp-cdc.dwd.de/pub/CDC/) | Weather data of Germany | No | No | Unknown |
 | [OpenAQ](https://docs.openaq.org/) | Open air quality data | `apiKey` | Yes | Unknown |
 | [PM2.5.in](http://www.pm25.in/api_doc) | Air quality of China | `apiKey` | No | Unknown |
 | [PVWatts](https://developer.nrel.gov/docs/solar/pvwatts-v5/) | Energy production photovoltaic (PV) energy systems | `apiKey` | Yes | Unknown |
+| [UBA](https://www.umweltbundesamt.de/daten/luftbelastung/aktuelle-luftdaten) | Air quality of Germany (undocumentated) | No | Yes | Unknown |
 | [UK Carbon Intensity](https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0) | The Official Carbon Intensity API for Great Britain developed by National Grid | No | Yes | Unknown |
 
 ### Events
